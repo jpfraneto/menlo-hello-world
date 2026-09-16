@@ -15,6 +15,7 @@ struct ContentView: View {
                 .font(.system(size: 64)).foregroundStyle(.orange)
             Text("Hello from MENLO").font(.largeTitle.bold())
             Text("From GitHub to your iPhone.")
+            Text("GitHub update 1").font(.caption).foregroundStyle(.secondary)
             Button("Say hello · \(greetings)") { greetings += 1 }
                 .buttonStyle(.borderedProminent).tint(.orange)
             Text("Keep this count when you update.").font(.caption).foregroundStyle(.secondary)
