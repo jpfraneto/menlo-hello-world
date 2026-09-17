@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "Hello from MENLO",
+  "subtitle": "A tiny app to try the MENLO network.",
+  "description": "Open the app and tap Say hello. Your greeting count stays with you across launches.\n\nThis small SwiftUI app demonstrates sharing a public GitHub app through MENLO and building it for your own iPhone.",
+  "icon": null,
+  "screenshots": [],
+  "preview": null
+}
