@@ -5,8 +5,8 @@
   "description": "Open the app and tap Say hello. Your greeting count stays with you across launches.\n\nThis small SwiftUI app demonstrates sharing a public GitHub app through MENLO and building it for your own iPhone.",
   "website": null,
   "tokenAddress": null,
-  "githubRepo": null,
-  "menloLink": null,
+  "githubRepo": "https://github.com/jpfraneto/menlo-hello-world",
+  "menloLink": "https://menloapp.lol/hello-menlo",
   "icon": null,
   "screenshots": [
     "menloapp/screenshot-bca6b4472cb0-1789668633491-1.png"
