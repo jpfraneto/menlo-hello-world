@@ -4,6 +4,12 @@
   "subtitle": "A tiny app to try the MENLO network.",
   "description": "Open the app and tap Say hello. Your greeting count stays with you across launches.\n\nThis small SwiftUI app demonstrates sharing a public GitHub app through MENLO and building it for your own iPhone.",
   "icon": null,
-  "screenshots": [],
-  "preview": null
+  "screenshots": [
+    "menloapp/screenshot-1.png"
+  ],
+  "preview": {
+    "path": "menloapp/preview-4ac9c0e6a7fe-1789664977980.mp4",
+    "kind": "simulator",
+    "source_commit": "4ac9c0e6a7fe26eacdcde8781e7e7c239b447ab4"
+  }
 }
