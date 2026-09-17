@@ -8,10 +8,12 @@
   "githubRepo": null,
   "menloLink": null,
   "icon": null,
-  "screenshots": [],
+  "screenshots": [
+    "menloapp/screenshot-bca6b4472cb0-1789668633491-1.png"
+  ],
   "preview": {
-    "path": "menloapp/preview-63012d3ab228-1789668076580.mp4",
+    "path": "menloapp/preview-bca6b4472cb0-1789668541070.mp4",
     "kind": "simulator",
-    "source_commit": "63012d3ab2284e6ce85d3f5718826515dea88c8b"
+    "source_commit": "bca6b4472cb00c1b9b4af3210ef86f03eb7ca1c0"
   }
 }
