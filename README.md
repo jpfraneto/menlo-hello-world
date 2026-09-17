@@ -1,19 +1,22 @@
-# Hello from MENLO
+# Hello MENLO
 
-A tiny public iOS sample for testing MENLO distribution. It uses SwiftUI, has
-no dependencies or build scripts, and keeps a greeting counter on your phone.
-The counter is useful for checking that an update preserves app data.
+A tiny iPhone app. Tap Say hello and keep your greeting count across launches.
+
+[See the app](https://menloapp.lol/hello-menlo)
 
 ```sh
-npm i -g tohseno
-tohseno deploy --scheme HelloWorld --app-slug hello-menlo
+npm i -g menloapp
+menloapp try https://menloapp.lol/hello-menlo
 ```
 
-Open the resulting link in MENLO, explicitly choose to build this source, and
-use your own Mac, Xcode signing identity, and intended iPhone. A source checkout
-or build is not evidence of physical installation. The first real installation
-and update must be observed by the person using that phone.
+To share this repository after committing and pushing your changes:
 
-Source derived from the Apache-2.0 HelloWorld fixture in
-[jpfraneto/tohseno](https://github.com/jpfraneto/tohseno). MENLO is currently
-GitHub-dependent with a centralized app directory; there is no gas payment.
+```sh
+menloapp deploy
+```
+
+Trying the app uses your Mac, Xcode and your own Apple signing identity to
+install it on your paired iPhone.
+
+Built with SwiftUI. Apache-2.0 licensed; based on the HelloWorld fixture in
+[jpfraneto/menloapp](https://github.com/jpfraneto/menloapp).

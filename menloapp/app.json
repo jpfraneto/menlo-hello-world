@@ -1,15 +1,17 @@
 {
   "version": 1,
-  "name": "Hello from MENLO",
-  "subtitle": "A tiny app to try the MENLO network.",
+  "name": "Hello MENLO",
+  "subtitle": "A little hello, made to share.",
   "description": "Open the app and tap Say hello. Your greeting count stays with you across launches.\n\nThis small SwiftUI app demonstrates sharing a public GitHub app through MENLO and building it for your own iPhone.",
+  "website": null,
+  "tokenAddress": null,
+  "githubRepo": null,
+  "menloLink": null,
   "icon": null,
-  "screenshots": [
-    "menloapp/screenshot-1.png"
-  ],
+  "screenshots": [],
   "preview": {
-    "path": "menloapp/preview-4ac9c0e6a7fe-1789664977980.mp4",
+    "path": "menloapp/preview-63012d3ab228-1789668076580.mp4",
     "kind": "simulator",
-    "source_commit": "4ac9c0e6a7fe26eacdcde8781e7e7c239b447ab4"
+    "source_commit": "63012d3ab2284e6ce85d3f5718826515dea88c8b"
   }
 }
